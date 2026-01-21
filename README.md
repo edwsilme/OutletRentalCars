@@ -131,10 +131,10 @@ Durante el desarrollo existen dificultades críticas de integración
 <img src="https://github.com/edwsilme/raw/blob/main/img-OutletRentalCars/002b.png" width="500">
 
 :arrow_forward: Pantalla de ejecución Get Vehiculos<p>
-<img src="https://github.com/edwsilme/raw/blob/main/img-OutletRentalCar/003a.png" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-OutletRentalCars/003a.png" width="500">
 
 :arrow_forward: Pantalla resultado de ejecución Get Vehiculos:<p>
-<img src="https://github.com/edwsilme/raw/blob/main/img-OutletRentalCar/003b.png" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-OutletRentalCars/003b.png" width="500">
 
 :arrow_forward: Ejecución de Pruebas unitarias y de INtegración<p>
-<img src="https://github.com/edwsilme/raw/blob/main/img-OutletRentalCar/004.png" width="500">
+<img src="https://github.com/edwsilme/raw/blob/main/img-OutletRentalCars/004.png" width="500">
