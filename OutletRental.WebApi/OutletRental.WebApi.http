@@ -1,0 +1,6 @@
+@OutletRental.WebApi_HostAddress = http://localhost:5003
+
+GET {{OutletRental.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,333 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.WebApi\\OutletRental.WebApi.csproj": {}
+  },
+  "projects": {
+    "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Application\\OutletRental.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Application\\OutletRental.Application.csproj",
+        "projectName": "OutletRental.Application",
+        "projectPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Application\\OutletRental.Application.csproj",
+        "packagesPath": "C:\\Users\\EDWARD\\.nuget\\packages\\",
+        "outputPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDWARD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Domain\\OutletRental.Domain.csproj": {
+                "projectPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Domain\\OutletRental.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Domain\\OutletRental.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Domain\\OutletRental.Domain.csproj",
+        "projectName": "OutletRental.Domain",
+        "projectPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Domain\\OutletRental.Domain.csproj",
+        "packagesPath": "C:\\Users\\EDWARD\\.nuget\\packages\\",
+        "outputPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDWARD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Infrastructure\\OutletRental.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Infrastructure\\OutletRental.Infrastructure.csproj",
+        "projectName": "OutletRental.Infrastructure",
+        "projectPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Infrastructure\\OutletRental.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\EDWARD\\.nuget\\packages\\",
+        "outputPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDWARD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Application\\OutletRental.Application.csproj": {
+                "projectPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Application\\OutletRental.Application.csproj"
+              },
+              "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Domain\\OutletRental.Domain.csproj": {
+                "projectPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Domain\\OutletRental.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.WebApi\\OutletRental.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.WebApi\\OutletRental.WebApi.csproj",
+        "projectName": "OutletRental.WebApi",
+        "projectPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.WebApi\\OutletRental.WebApi.csproj",
+        "packagesPath": "C:\\Users\\EDWARD\\.nuget\\packages\\",
+        "outputPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\EDWARD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Application\\OutletRental.Application.csproj": {
+                "projectPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Application\\OutletRental.Application.csproj"
+              },
+              "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Infrastructure\\OutletRental.Infrastructure.csproj": {
+                "projectPath": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Infrastructure\\OutletRental.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.MySql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "OutletRental.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Application",
+  "OutletRental.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Domain",
+  "OutletRental.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.Infrastructure",
+  "OutletRental.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\5 - Programacion\\VS-2022\\OutletRentalCars\\OutletRental.WebApi"
+}

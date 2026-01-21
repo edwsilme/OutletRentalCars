@@ -1,0 +1,24 @@
+# ===== SYSTEM FILES =====
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# IDE / Editor
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== BACKEND (.NET) =====
+OutletRentalCars/**/bin/
+OutletRentalCars/**/obj/
+OutletRentalCars/**/.vs/
+OutletRentalCars/**/*.user
+OutletRentalCars/**/*.suo
+OutletRentalCars/**/logs/
+#**/Properties/launchSettings.json
+
